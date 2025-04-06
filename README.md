@@ -102,7 +102,6 @@ RescueByte’s MVP demonstrates:
 ## Links
 
 - **GitHub Repository:** [jenjose72/RescueBytes](https://github.com/jenjose72/RescueBytes)
-- **Demo Video (3 Minutes):** _[Link to Demo Video]_  
 - **User App Demo:** [RescueBytes - Google Drive](https://drive.google.com/your-demo-link)  
 - **RescueBytes Admin Web Page:** [https://rbbackend-hlah.onrender.com/](https://rbbackend-hlah.onrender.com/)
 
